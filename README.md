@@ -30,7 +30,7 @@ To get started with the Generative AI-Powered Application Suite, follow the step
 
 The application suite is hosted on Hugging Face Spaces. You can access each tool directly using the links below:
 
-- [Multilingual Invoice Extractor](#) 
-- [Chat with Gemini](#)
-- [Explore Your Resume](#)
+- [Multilingual Invoice Extractor](https://huggingface.co/spaces/amank4212/UnifiedSpaces) 
+- [Chat with Gemini](https://huggingface.co/spaces/amank4212/UnifiedSpaces)
+- [Explore Your Resume](https://huggingface.co/spaces/amank4212/UnifiedSpaces)
 
